@@ -27,17 +27,17 @@
 	    </TD>
          </TR>
 	 <TR>
-            <TD COLSPAN=3 ALIGN=CENTER><FONT FACE="Arial, Helvetica" COLOR="silver"><B>&nbsp;- OR -&nbsp;</B></FONT></TD>
+            <TD COLSPAN=3 ALIGN=CENTER><FONT FACE="Times New Roman, Helvetica" COLOR="silver"><B>&nbsp;- OR -&nbsp;</B></FONT></TD>
 	 </TR>
          <TR>
-	   <TD ALIGN=LEFT><FONT FACE="Arial, Helvetica" COLOR="silver"><B>From: </B></FONT></TD>
+	   <TD ALIGN=LEFT><FONT FACE="Times New Roman, Helvetica" COLOR="silver"><B>From: </B></FONT></TD>
 	   <TD ALIGN=LEFT><INPUT TYPE=TEXT NAME="FROMTIME" SIZE=40 ID="starttime" VALUE="&EVENTSTARTTIME" onchange="document.getElementById('backdays').value=''; document.getElementById('backhours').value=''; document.getElementById('backmins').value=''; document.getElementById('backsecs').value=''; return false"></TD>
-	   <TD ALIGN=LEFT><FONT FACE="Arial, Helvetica" COLOR="silver">(ccyy/mm/dd@hh:mm:ss)</FONT></TD>
+	   <TD ALIGN=LEFT><FONT FACE="Times New Roman, Helvetica" COLOR="silver">(ccyy/mm/dd@hh:mm:ss)</FONT></TD>
 	 </TR>
 	 <TR>
-	   <TD ALIGN=LEFT><FONT FACE="Arial, Helvetica" COLOR="silver"><B>To: </B></FONT></TD>
+	   <TD ALIGN=LEFT><FONT FACE="Times New Roman, Helvetica" COLOR="silver"><B>To: </B></FONT></TD>
 	   <TD ALIGN=LEFT><INPUT TYPE=TEXT NAME="TOTIME" SIZE=40 ID="endtime" VALUE="&EVENTENDTIME" onchange="document.getElementById('backdays').value=''; document.getElementById('backhours').value=''; document.getElementById('backmins').value=''; document.getElementById('backsecs').value=''; return false"></TD>
-	   <TD ALIGN=LEFT><FONT FACE="Arial, Helvetica" COLOR="silver">(ccyy/mm/dd@hh:mm:ss)</FONT></TD>
+	   <TD ALIGN=LEFT><FONT FACE="Times New Roman, Helvetica" COLOR="silver">(ccyy/mm/dd@hh:mm:ss)</FONT></TD>
 	 </TR>
 
          <TR>

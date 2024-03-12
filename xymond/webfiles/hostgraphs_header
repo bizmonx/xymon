@@ -1,4 +1,4 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0//EN">
+<!DOCTYPE html>
 <HTML>
 <HEAD>
 <META HTTP-EQUIV="Content-Type" CONTENT="&HTMLCONTENTTYPE">
@@ -24,13 +24,13 @@
 <TR><TD HEIGHT=16>&nbsp;</TD></TR>  <!-- For the menu bar -->
 <TR>
   <TD VALIGN=MIDDLE ALIGN=LEFT WIDTH="30%">
-    <FONT FACE="Arial, Helvetica" SIZE="+1" COLOR="silver"><B>&XYMONLOGO</B></FONT>
+    <FONT FACE="Times New Roman, Helvetica" SIZE="+1" COLOR="silver"><B>&XYMONLOGO</B></FONT>
   </TD>
   <TD VALIGN=MIDDLE ALIGN=CENTER WIDTH="40%">
-    <CENTER><FONT FACE="Arial, Helvetica" SIZE="+1" COLOR="silver"><B>Metrics Report</B></FONT></CENTER>
+    <CENTER><FONT FACE="Times New Roman, Helvetica" SIZE="+1" COLOR="silver"><B>Metrics Report</B></FONT></CENTER>
   </TD>
   <TD VALIGN=MIDDLE ALIGN=RIGHT WIDTH="30%">
-   <FONT FACE="Arial, Helvetica" SIZE="+1" COLOR="silver"><B>&XYMWEBDATE</B></FONT>
+   <FONT FACE="Times New Roman, Helvetica" SIZE="+1" COLOR="silver"><B>&XYMWEBDATE</B></FONT>
   </TD>
 </TR>
 <TR>

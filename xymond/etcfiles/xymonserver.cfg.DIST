@@ -197,6 +197,8 @@ COLUMNDOCURL="$CGIBINURL/columndoc.sh?%s"	# URL formatting string for column-lin
 #
 # HOSTDOCURL="$XYMONNOTESSKIN/%s.html"
 
+# HTML allow scripts
+XYMON_NOCSPHEADER="none"
 
 # HTML content
 HTMLCONTENTTYPE="text/html"                     # You can add charset options here.

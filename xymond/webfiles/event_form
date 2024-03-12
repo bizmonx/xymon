@@ -4,22 +4,22 @@
      <TR>
        <TD><TABLE BORDER=0>
          <TR>
-           <TD><FONT FACE="Arial, Helvetica" COLOR="silver"><B>Starting </B></FONT></TD>
+           <TD><FONT FACE="Times New Roman, Helvetica" COLOR="silver"><B>Starting </B></FONT></TD>
            <TD><INPUT TYPE=TEXT NAME="MAXTIME" SIZE=40></TD>
-           <TD><FONT FACE="Arial, Helvetica" COLOR="silver"><B> minutes ago </B>( Default 1440 )</FONT></TD> 
+           <TD><FONT FACE="Times New Roman, Helvetica" COLOR="silver"><B> minutes ago </B>( Default 1440 )</FONT></TD> 
          </TR>
          <TR>
-           <TD COLSPAN=3 ALIGN=CENTER><FONT FACE="Arial, Helvetica" COLOR="silver"><B>&nbsp;- OR -&nbsp;</B></FONT></TD>
+           <TD COLSPAN=3 ALIGN=CENTER><FONT FACE="Times New Roman, Helvetica" COLOR="silver"><B>&nbsp;- OR -&nbsp;</B></FONT></TD>
          </TR>
          <TR>
-           <TD><FONT FACE="Arial, Helvetica" COLOR="silver"><B>From: </B></FONT></TD> 
+           <TD><FONT FACE="Times New Roman, Helvetica" COLOR="silver"><B>From: </B></FONT></TD> 
            <TD><INPUT TYPE=TEXT NAME="FROMTIME" SIZE=40 ID="starttime"></TD>
-           <TD><FONT FACE="Arial, Helvetica" COLOR="silver">(ccyy/mm/dd@hh:mm:ss)</FONT></TD>
+           <TD><FONT FACE="Times New Roman, Helvetica" COLOR="silver">(ccyy/mm/dd@hh:mm:ss)</FONT></TD>
          </TR>
          <TR>
-           <TD><FONT FACE="Arial, Helvetica" COLOR="silver"><B>To: </B></FONT></TD> 
+           <TD><FONT FACE="Times New Roman, Helvetica" COLOR="silver"><B>To: </B></FONT></TD> 
            <TD><INPUT TYPE=TEXT NAME="TOTIME" SIZE=40 ID="endtime"></TD>
-           <TD><FONT FACE="Arial, Helvetica" COLOR="silver">(ccyy/mm/dd@hh:mm:ss)</FONT></TD>
+           <TD><FONT FACE="Times New Roman, Helvetica" COLOR="silver">(ccyy/mm/dd@hh:mm:ss)</FONT></TD>
          </TR>
        </TABLE></TD>
      </TR>
@@ -39,28 +39,28 @@
 
    <TABLE BORDER=0 SUMMARY="Eventlog criteria">
      <TR>
-       <TD ALIGN=LEFT><FONT FACE="Arial, Helvetica" COLOR="silver"><B>Max&nbsp;#&nbsp;of&nbsp;events</B></FONT></TD>
+       <TD ALIGN=LEFT><FONT FACE="Times New Roman, Helvetica" COLOR="silver"><B>Max&nbsp;#&nbsp;of&nbsp;events</B></FONT></TD>
        <TD WIDTH=10>&nbsp;</TD>
        <TD ALIGN=LEFT><INPUT TYPE=TEXT NAME="MAXCOUNT" SIZE=40 VALUE=100></TD>
-       <TD ALIGN=LEFT><FONT FACE="Arial, Helvetica" COLOR="silver"> ( Default 100 )</FONT></TD>
+       <TD ALIGN=LEFT><FONT FACE="Times New Roman, Helvetica" COLOR="silver"> ( Default 100 )</FONT></TD>
      </TR>
 
      <TR>
-       <TD ALIGN=LEFT><FONT FACE="Arial, Helvetica" COLOR="silver"><B>Hosts&nbsp;to&nbsp;match</B></FONT></TD>
+       <TD ALIGN=LEFT><FONT FACE="Times New Roman, Helvetica" COLOR="silver"><B>Hosts&nbsp;to&nbsp;match</B></FONT></TD>
        <TD WIDTH=10>&nbsp;</TD>
        <TD ALIGN=LEFT><INPUT TYPE=TEXT NAME="HOSTMATCH" SIZE=40></TD>
-       <TD ALIGN=LEFT><FONT FACE="Arial, Helvetica" COLOR="silver"> ( ex: ^host.*$ )</FONT></TD>
+       <TD ALIGN=LEFT><FONT FACE="Times New Roman, Helvetica" COLOR="silver"> ( ex: ^host.*$ )</FONT></TD>
      </TR>
 
      <TR>
-       <TD ALIGN=LEFT><FONT FACE="Arial, Helvetica" COLOR="silver"><B>Hosts&nbsp;to&nbsp;skip</B></FONT></TD>
+       <TD ALIGN=LEFT><FONT FACE="Times New Roman, Helvetica" COLOR="silver"><B>Hosts&nbsp;to&nbsp;skip</B></FONT></TD>
        <TD WIDTH=10>&nbsp;</TD>
        <TD ALIGN=LEFT><INPUT TYPE=TEXT NAME="EXHOSTMATCH" SIZE=40></TD>
-       <TD ALIGN=LEFT><FONT FACE="Arial, Helvetica" COLOR="silver"> ( ex: ^host.*$ )</FONT></TD>
+       <TD ALIGN=LEFT><FONT FACE="Times New Roman, Helvetica" COLOR="silver"> ( ex: ^host.*$ )</FONT></TD>
      </TR>
 
      <TR>
-       <TD ALIGN=LEFT><FONT FACE="Arial, Helvetica" COLOR="silver"><B>Pages&nbsp;to&nbsp;match</B></FONT></TD>
+       <TD ALIGN=LEFT><FONT FACE="Times New Roman, Helvetica" COLOR="silver"><B>Pages&nbsp;to&nbsp;match</B></FONT></TD>
        <TD WIDTH=10>&nbsp;</TD>
        <TD ALIGN=LEFT><INPUT TYPE=TEXT NAME="PAGEMATCH" ID="PAGEMATCH" SIZE=40></TD>
        <td ALIGN=LEFT>
@@ -71,38 +71,38 @@
      </TR>
 
      <TR>
-       <TD ALIGN=LEFT><FONT FACE="Arial, Helvetica" COLOR="silver"><B>Pages&nbsp;to&nbsp;skip</B></FONT></TD>
+       <TD ALIGN=LEFT><FONT FACE="Times New Roman, Helvetica" COLOR="silver"><B>Pages&nbsp;to&nbsp;skip</B></FONT></TD>
        <TD WIDTH=10>&nbsp;</TD>
        <TD ALIGN=LEFT><INPUT TYPE=TEXT NAME="EXPAGEMATCH" SIZE=40></TD>
-       <TD ALIGN=LEFT><FONT FACE="Arial, Helvetica" COLOR="silver"> ( ex: ^webservers/.*$ )</FONT></TD>
+       <TD ALIGN=LEFT><FONT FACE="Times New Roman, Helvetica" COLOR="silver"> ( ex: ^webservers/.*$ )</FONT></TD>
      </TR>
 
      <TR>
-       <TD ALIGN=LEFT><FONT FACE="Arial, Helvetica" COLOR="silver"><B>Tests&nbsp;to&nbsp;match</B></FONT></TD>
+       <TD ALIGN=LEFT><FONT FACE="Times New Roman, Helvetica" COLOR="silver"><B>Tests&nbsp;to&nbsp;match</B></FONT></TD>
        <TD WIDTH=10>&nbsp;</TD>
        <TD ALIGN=LEFT><INPUT TYPE=TEXT NAME="TESTMATCH" SIZE=40></TD>
-       <TD ALIGN=LEFT><FONT FACE="Arial, Helvetica" COLOR="silver"> ( ex: cpu|vmstat )</FONT></TD>
+       <TD ALIGN=LEFT><FONT FACE="Times New Roman, Helvetica" COLOR="silver"> ( ex: cpu|vmstat )</FONT></TD>
      </TR>
 
      <TR>
-       <TD ALIGN=LEFT><FONT FACE="Arial, Helvetica" COLOR="silver"><B>Tests&nbsp;to&nbsp;skip</B></FONT></TD>
+       <TD ALIGN=LEFT><FONT FACE="Times New Roman, Helvetica" COLOR="silver"><B>Tests&nbsp;to&nbsp;skip</B></FONT></TD>
        <TD WIDTH=10>&nbsp;</TD>
        <TD ALIGN=LEFT><INPUT TYPE=TEXT NAME="EXTESTMATCH" SIZE=40></TD>
-       <TD ALIGN=LEFT><FONT FACE="Arial, Helvetica" COLOR="silver"> ( ex: cpu|vmstat )</FONT></TD>
+       <TD ALIGN=LEFT><FONT FACE="Times New Roman, Helvetica" COLOR="silver"> ( ex: cpu|vmstat )</FONT></TD>
      </TR>
 
      <TR>
-       <TD ALIGN=LEFT><FONT FACE="Arial, Helvetica" COLOR="silver"><B>Colors&nbsp;to&nbsp;match</B></FONT></TD>
+       <TD ALIGN=LEFT><FONT FACE="Times New Roman, Helvetica" COLOR="silver"><B>Colors&nbsp;to&nbsp;match</B></FONT></TD>
        <TD WIDTH=10>&nbsp;</TD>
        <TD ALIGN=LEFT><INPUT TYPE=TEXT NAME="COLORMATCH" SIZE=40></TD>
-       <TD ALIGN=LEFT><FONT FACE="Arial, Helvetica" COLOR="silver"> ( ex: red|green )</FONT></TD>
+       <TD ALIGN=LEFT><FONT FACE="Times New Roman, Helvetica" COLOR="silver"> ( ex: red|green )</FONT></TD>
      </TR>
 
      <TR>
-       <TD ALIGN=LEFT><FONT FACE="Arial, Helvetica" COLOR="silver"><B>Ignore&nbsp;dialup&nbsp;hosts</B></FONT></TD>
+       <TD ALIGN=LEFT><FONT FACE="Times New Roman, Helvetica" COLOR="silver"><B>Ignore&nbsp;dialup&nbsp;hosts</B></FONT></TD>
        <TD WIDTH=10>&nbsp;</TD>
        <TD ALIGN=LEFT><INPUT TYPE=CHECKBOX NAME="NODIALUPS"></TD>
-       <TD ALIGN=LEFT><FONT FACE="Arial, Helvetica" COLOR="silver">&nbsp;</FONT></TD>
+       <TD ALIGN=LEFT><FONT FACE="Times New Roman, Helvetica" COLOR="silver">&nbsp;</FONT></TD>
      </TR>
 
      <TR>

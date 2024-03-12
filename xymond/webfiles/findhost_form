@@ -4,7 +4,7 @@
        <TR>
            <TD BGCOLOR="#333333" ALIGN="CENTER">
                <BR>
-               <FONT FACE="Arial, Helvetica">
+               <FONT FACE="Times New Roman, Helvetica">
                      <font size="+1">Pattern to look for</font>
                      <INPUT TYPE="TEXT" NAME="host" ID="hostfield" VALUE="" MAXLENGTH=200 SIZE=70>
 		     <br><br>
