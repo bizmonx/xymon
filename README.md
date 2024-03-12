@@ -13,6 +13,10 @@ NOTE: On Nov 10 2008, Hobbit was officially renamed to
 cannot be used without permission from the trademark
 holders. 
 
+This project currently is nothing more than a monkey patched visual refresh.
+All credits go to the original author and team.
+Xymon is awesome and this will help me learn and understand Zig.
+
 
 ## How to install
 
