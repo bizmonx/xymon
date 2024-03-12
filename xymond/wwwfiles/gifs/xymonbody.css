@@ -13,31 +13,6 @@ table[summary="Topline"][width="100%"] {
     background-color: #124ab963;
 }
 
-.green {
- background-image: url(bkg-green.gif);
-}
-
-.yellow {
- background-image: url(bkg-yellow.gif);
-}
-
-.red {
- background-image: url(bkg-red.gif);
-}
-
-.purple {
- background-image: url(bkg-purple.gif);
-}
-
-.blue {
- background-image: url(bkg-blue.gif);
-}
-
-.clear {
- background-image: url(bkg-clear.gif);
-}
-
-#124ab963
 
 .eventstable td {
     background-color: unset; 
