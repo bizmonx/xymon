@@ -187,8 +187,8 @@ GRAPHS="la,disk,inode,qtree,files,processes,memory,users,vmstat,iostat,tcp.http,
 XYMONGENOPTS="--recentgifs --subpagecolumns=2"	# Standard options for xymongen.
 SUMMARY_SET_BKG="FALSE"				# Do summaries affect the background color of the Standard webpage ?
 XYMONNONGREENEXT="eventlog.sh acklog.sh"	# What extensions to have on the All non-green page.
-DOTHEIGHT="16"					# Height (in pixels) of the color GIF's
-DOTWIDTH="16"					# Width (in pixels) of the color GIF's
+DOTHEIGHT="22"					# Height (in pixels) of the color GIF's
+DOTWIDTH="22"					# Width (in pixels) of the color GIF's
 IMAGEFILETYPE="gif"				# Filetype of the icon image files. You can change this to "png" or "jpg"
 COLUMNDOCURL="$CGIBINURL/columndoc.sh?%s"	# URL formatting string for column-links
 # HOSTDOCURL is a formatting string for generating links to host documentation.
