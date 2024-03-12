@@ -14,6 +14,59 @@
 
 <!-- Styles for the menu bar -->
 <link rel="stylesheet" type="text/css" href="&XYMONBODYMENUCSS">
+<style>
+
+.xcolor {
+    color: &XYMWEBBACKGROUND;
+}
+
+
+svg {
+  fill: &XYMWEBBACKGROUND;
+}
+
+.bizmonx-icon-size {
+  height: 80px;
+  width: 80px;
+  fill: &XYMWEBBACKGROUND;
+}
+
+.bizmonx-icon {
+    fill: &XYMWEBBACKGROUND; 
+}
+
+
+.bizmonx-icon path {
+    fill: &XYMWEBBACKGROUND;
+}
+
+table[summary="Bottomline"] {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    z-index: 1000;
+}
+
+/*
+table[summary="Topline"] {
+    margin-left: 10px;
+    margin-right: 10px;
+} 
+*/
+
+logo {
+    display: block;
+    height: auto;
+    width: 52px;
+    padding-top: 5px;
+    margin-right: 15px;
+}
+
+body {
+    padding-top: 60px; /* Height of the navbar */
+}
+
+</style>
 
 <!-- The favicon image -->
 <link rel="shortcut icon" href="&XYMONSKIN/favicon-&XYMWEBBACKGROUND.ico">
