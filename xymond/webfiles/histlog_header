@@ -77,13 +77,11 @@ body {
 
 &XYMONBODYHEADER
 
-<TABLE SUMMARY="Topline" WIDTH="100%">
-<TR><TD HEIGHT=16>&nbsp;</TD></TR>  <!-- For the menu bar -->
-<TR>
-  <TD VALIGN=MIDDLE ALIGN=LEFT WIDTH="30%">
+<div class="d-flex justify-content-between topline mb-4">
+  <div class="ms-3 mb-2">
     <FONT FACE="Times New Roman, Helvetica" SIZE="+1" COLOR="silver"><B>&XYMONLOGO</B></FONT>
-  </TD>
-  <TD VALIGN=MIDDLE ALIGN=CENTER WIDTH="40%">
+  </div>
+  <div class="mb-2">
     <CENTER><FONT FACE="Times New Roman, Helvetica" SIZE="+1" COLOR="silver"><B>Historical Status<BR>&XYMWEBHOST - &XYMWEBSVC</B></FONT></CENTER>
   </TD>
   <TD VALIGN=MIDDLE ALIGN=RIGHT WIDTH="30%">
