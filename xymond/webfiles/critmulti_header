@@ -63,7 +63,7 @@ logo {
 }
 
 body {
-    padding-top: 60px; /* Height of the navbar */
+    padding-top: 90; /* Height of the navbar */
 }
 
 </style>

@@ -9,10 +9,14 @@ body {
  */
 }
 
-table[summary="Topline"][width="100%"] {
+/*table[summary="Topline"] {
     background-color: #124ab963;
 }
+*/
 
+.topline {
+    border-bottom: 0.1rem solid #5cd5fb54;
+}
 
 .eventstable td {
     background-color: unset; 
